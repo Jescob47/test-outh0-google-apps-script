@@ -35,7 +35,7 @@ API_URL → la URL de tu Apps Script desplegado como API
 
 Corre el script:
 
-python appscript_from_python.py
+python test.py
 
 
 La primera vez te pedirá iniciar sesión con tu cuenta de Google para generar el archivo token.json.
